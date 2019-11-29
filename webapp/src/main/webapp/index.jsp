@@ -1,3 +1,2 @@
-<h1> Hello, Welcome to coss Technologies !!! </h1>
-happy weeekend
-happy to see you
+<h1> Hello, Welcome to devops & aws Technologies !!! </h1>
+this is shekar
